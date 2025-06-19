@@ -1,5 +1,6 @@
 # Catalysis Data Analysis  
-## README for Experiment Report on Catalyst Performance, Emissions Reduction, and Process Efficiency  
+### README for Experiment Report on Catalyst Performance, Emissions Reduction, and Process Efficiency  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xanderflux/CatalystInsights/blob/main/index.ipynb)
 
 ## Overview  
 This project focuses on analyzing catalysis data to explore catalyst performance, emissions reduction, and process efficiency. The analysis uses Python for data processing and visualization, incorporating key techniques such as:  
