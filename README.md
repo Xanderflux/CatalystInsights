@@ -41,8 +41,8 @@ The dataset is processed to extract insights into catalyst behavior, enabling op
 ---
 
 ## Authors  
-- **Adesoye Michael Ademola**:, Phone: 07015060745  
-- **Enoch o. Oladipupo**: , Phone: 09135619975
+- **Adesoye Michael Ademola**:
+- **Enoch o. Oladipupo**:
 
 For inquiries or collaboration, feel free to contact the authors.  
 
